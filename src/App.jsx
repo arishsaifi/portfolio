@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <main>
-       <div class="p-6 max-w-max h-96 mx-auto my-10 bg-white rounded-xl shadow-lg block items-center space-x-4">
+       <div class="p-6 max-w-max h-full mx-auto my-10 bg-white rounded-xl shadow-lg block items-center space-x-4">
        
        <br />
        <br />
@@ -16,7 +16,7 @@ const App = () => {
     <div class="text-xl font-medium text-black">👷‍♂️ website under construction🚧 🏗 ! we are coming soon 😊 </div>
     <br />
     <br />
-    <p class="text-slate-700 font-bold">you can explore my 1yeaar old website 🙂</p>
+    <p class="text-slate-700 font-bold">you can explore my 1year old website 🙂</p>
     <br />
     <div className="text-center">
     <a 
