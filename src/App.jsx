@@ -7,9 +7,9 @@ const App = () => {
      <Top />
      <Hero />
      <Edu />
-      Main
+      {/* Main
 
-      Footer
+      Footer */}
   </>
   )
 }
