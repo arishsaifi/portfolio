@@ -4,9 +4,9 @@ import Hero from "./components/hero"
 const App = () => {
   return (
   <>
-     <Top />
+    {/* <Top /> 
      <Hero />
-     <Edu />
+     <Edu /> */}
       {/* Main
 
       Footer */}
